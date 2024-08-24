@@ -5,7 +5,7 @@ Link subsequent updates.
 
 ## Dataset
 
-For our TJNC dataset see [TJNC Dataset]()
+For our TJNC dataset see [TJNC Dataset](https://drive.google.com/file/d/1AKcqN7VhY7pjmY0eztME9bvne1g2yVUW/view?usp=drive_link)
 
 ## Pretrain Models
 
